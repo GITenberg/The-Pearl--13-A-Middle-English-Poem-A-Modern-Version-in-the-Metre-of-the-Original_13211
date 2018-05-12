@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '4924'
     url: http://www.gutenberg.org/2009/agents/4924
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13211#The-Pearl--13-A-Middle-English-Poem-A-Modern-Version-in-the-Metre-of-the-Original
 gutenberg_issued: '2004-08-18'
 gutenberg_type: Text
 identifiers:
